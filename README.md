@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+### :fire: My Stats :
+
 - 🔭 I’m currently working on SaaS Project
 - 🌱 I’m currently learning AWS, RUST, YeW
 - 👯 I’m looking to collaborate on ...
