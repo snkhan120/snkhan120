@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=snkhan120)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=snkhan120&theme=highcontrast&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 - 🔭 I’m currently working on SaaS Project
 - 🌱 I’m currently learning AWS, RUST, YeW
